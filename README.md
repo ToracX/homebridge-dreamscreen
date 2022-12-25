@@ -4,7 +4,7 @@
 A lightweight HomeBridge plugin to control any DreamScreen product including sidekicks. Using a fast and responsive node engine that I have customized to also retrieve state. 
 
 ## Installation:
-Easiest way to install is using homebridge-config-ui. Search for the plugin, click install and follow the steps on your screen. 
+Easiest way to install is using homebridge-config-ui (https://github.com/oznu/homebridge-config-ui-x). Search for the plugin, click install and follow the steps on your screen. 
 Or install using npm ```npm install -g homebridge-dreamscreen``` and update your config.json.
 
 ## Config Example only needed when not using homebridge-config-ui
