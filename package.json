@@ -1,0 +1,32 @@
+{
+        "name": "homebridge-dreamscreen",
+        "displayName": "Homebridge DreamScreen",
+        "description": "A lightweight Homebridge plugin for controlling DreamScreen Ambilight.",
+        "version": "1.0.0",
+        "repository": {
+                "type": "git",
+                "url": "https://github.com/ToracX/homebridge-dreamscreen"
+        },
+        "author": "Torac",
+        "engines": {
+                "homebridge": ">=0.2.0",
+                "node": ">4.0.0"
+        },
+        "keywords": [
+                "homebridge-plugin",
+                "homekit",
+                "dreamscreen",
+                "ambilight",
+                "Torac"
+        ],
+        "dependencies": {
+                "colorsys": "1.0.22",
+                "child_process": "1.0.2"
+                "dreamscreen-node": "0.0.4"
+        },
+        "bugs": {
+                "email": "torac.schuthof@gmail.com",
+                "url": "https://github.com/ToracX/homebridge-dreamscreen/issues"
+        },
+        "homepage": "https://github.com/ToracX/homebridge-dreamscreen"
+}
